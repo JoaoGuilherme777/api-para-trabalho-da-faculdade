@@ -1,0 +1,37 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Guilherme",
+      "apelido": "gui",
+      "password": 1234,
+      "ip": "108.121.17.171",
+      "create_at": "2022-11-24T00:00:00.000Z",
+      "update_at": "2022-11-24T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "nome": "Gabriel",
+      "apelido": "Pink",
+      "password": 7892,
+      "ip": "100.250.48.144",
+      "create_at": "2022-11-24T00:00:00.000Z",
+      "update_at": "2022-11-24T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "nome": "Geovanna",
+      "apelido": "Geo",
+      "password": 3456,
+      "ip": "17.199.178.236",
+      "create_at": "2022-11-24T00:00:00.000Z",
+      "update_at": "2022-11-24T00:00:00.000Z"
+    }
+  ],
+  "documetos": [
+    {
+      "id": 1,
+      "history": ""
+    }
+  ]
+}
